@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  color: #00ff00;
+  background: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+
+a{
+  color: #00ff00;
+}
+
+a:hover{
+  color: #ff00ff;
+}
+
+.title {
+  text-align: center;
+  font-size: 50px;
+}
+
+.about {
+  padding: 0px 200px 0px 200px;
+  font-size: 30px;
+  text-align: justify;
+}
